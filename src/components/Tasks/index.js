@@ -1,13 +1,13 @@
 import React from "react"
 import logo from "../../imgages/logo.jpg"
 
-const Home = () => {
+const Tasks = () => {
     return (
         <div className="App">
-            <h1>Home</h1>
+            <h1>Tasks</h1>
             <img  src={logo} alt="logo"/>
         </div>
     )
 }
 
-export default Home
+export default Tasks
